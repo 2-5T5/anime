@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: 二次元の日记
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
+author: 阿宝
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://2-5T5.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
